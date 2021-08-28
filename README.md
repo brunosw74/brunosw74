@@ -1,4 +1,4 @@
-### Hi there 👋
+### Estudante e futuro desenvolvedor Back-End 🐱‍👤🐱‍👤🐱‍👤🦽
 
 <!--
 **brunosw74/brunosw74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
